@@ -8,3 +8,5 @@
 - 📫 <a href="mailto:caiovictor20@gmail.com">caiovictor20@gmail.com</a> 
 - More about me: <a href="https://www.linkedin.com/in/caio-gon%C3%A7alves-288745a5/">Linkedin</a>
  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caiof13Dev)](https://github.com/anuraghazra/github-readme-stats)
