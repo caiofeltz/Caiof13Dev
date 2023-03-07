@@ -5,5 +5,6 @@
 
 - 📚 Estou atualmente estudando JavaScript e cursando o 1°Semestre em Tecnologia da Informação na UFMS
 - 🌱  HTML | CSS | SASS | Javascrip |
-- 📫 <a href="mailto:caiovictor20@gmail.com">caiovictor20@gmail.com</a> <a href="https://www.linkedin.com/in/caio-gon%C3%A7alves-288745a5/">linkedin</a>
+- 📫 <a href="mailto:caiovictor20@gmail.com">caiovictor20@gmail.com</a> 
+- More about me: <a href="https://www.linkedin.com/in/caio-gon%C3%A7alves-288745a5/">linkedin</a>
  
