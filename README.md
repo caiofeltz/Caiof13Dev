@@ -8,7 +8,7 @@
 - 📫 <a href="mailto:caiovictor20@gmail.com">caiovictor20@gmail.com</a> 
 - More about me: <a href="https://www.linkedin.com/in/caio-gon%C3%A7alves-288745a5/">Linkedin</a>
  
-<div>
+<div align="center">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Caiof13Dev&theme=dracula">
   <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiof13Dev&layout=compact&theme=dracula">
   
