@@ -9,4 +9,5 @@
 - More about me: <a href="https://www.linkedin.com/in/caio-gon%C3%A7alves-288745a5/">Linkedin</a>
  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caiof13Dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caiof13Dev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiof13Dev&layout=compact&theme=dracula)](https://github.com/Caiof13Dev/github-readme-stats)
