@@ -1,5 +1,5 @@
 - 👋 <h1> Olá pessoal</h1>
-  Sou <strong>Caio Victor Gonçalves </strong>, atualmete estou cursando a graduação em Tecnologia de informção na UFMS e também estudando JavaScript, meus porjetos iniciais devem conter essa tecnologia, tenho foco em aprender estou disposto a observar e tirar aprendizados valiosos com meus erros. Sou de Sorocaba-SP
+  Sou <strong>Caio Victor Gonçalves </strong>, atualmete estou cursando a graduação em Tecnologia de informção na UFMS e também estudando JavaScript, meus projetos iniciais devem conter essa tecnologia, tenho foco em aprender estou disposto a observar e tirar aprendizados valiosos com meus erros. Sou de Sorocaba-SP
 
 * 🎯 Objetivos: Estudar muito para ser relevante e me tornar referência, aprender com a experiência de outras pessoas da area para ser um pilar importante de eficiência 
 
