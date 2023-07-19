@@ -1,6 +1,6 @@
 - 👋 <h1> Olá pessoal</h1>
   Sou <strong>Caio Victor Gonçalves </strong>, atualmete estou cursando a graduação em Tecnologia de informção na UFMS e também estudando Swift, tenho foco em aprender estou disposto a observar e tirar aprendizados valiosos com meus erros. Sei trabalhar bem em equipe, sou ótimo ouvinte e me comunico com todos, não sou tímido, pelo contrario, busco ter um bom relacionamento com meus colegas. Definitivamente eu não sei tudo e estou super disposto a aprender, sempre ouço, anoto e pergunto.
-  hoje eu estudo swift porquê trabalhei muitos anos com manutenção de iPhone, iPad, Mac e Watch. O que me fez ainda mais fascinado pelo ecossistema iOS e me trouxe até o swift.
+  <p>hoje eu estudo swift porquê trabalhei muitos anos com manutenção de iPhone, iPad, Mac e Watch. O que me fez ainda mais fascinado pelo ecossistema iOS e me trouxe até o swift.</p>
 
 * 🎯 Objetivos: Aprender com a experiência de outras pessoas e agregar valor ao trabalho e ambiente.
 
