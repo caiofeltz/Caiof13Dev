@@ -1,10 +1,11 @@
 - 👋 <h1> Olá pessoal</h1>
-  Sou <strong>Caio Victor Gonçalves </strong>, atualmete estou cursando a graduação em Tecnologia de informção na UFMS e também estudando JavaScript, meus projetos iniciais devem conter essa tecnologia, tenho foco em aprender estou disposto a observar e tirar aprendizados valiosos com meus erros. Sou de Sorocaba-SP
+  Sou <strong>Caio Victor Gonçalves </strong>, atualmete estou cursando a graduação em Tecnologia de informção na UFMS e também estudando Swift, tenho foco em aprender estou disposto a observar e tirar aprendizados valiosos com meus erros. Sei trabalhar bem em equipe, sou ótimo ouvinte e me comunico com todos, não sou tímido, pelo contrario, busco ter um bom relacionamento com meus colegas. Definitivamente eu não sei tudo e estou super disposto a aprender, sempre ouço, anoto e pergunto.
+  hoje eu estudo swift porquê trabalhei muitos anos com manutenção de iPhone, iPad, Mac e Watch. O que me fez ainda mais fascinado pelo ecossistema iOS e me trouxe até o swift.
 
-* 🎯 Objetivos: Estudar muito para ser relevante e me tornar referência, aprender com a experiência de outras pessoas da area para ser um pilar importante de eficiência 
+* 🎯 Objetivos: Aprender com a experiência de outras pessoas e agregar valor ao trabalho e ambiente.
 
-- 📚 Estou atualmente estudando JavaScript, inglês e cursando o 1°Semestre em Tecnologia da Informação na UFMS
-- 🌱  HTML | CSS | Javascrip |
+- 📚 Estou atualmente estudando Swift, SwiftUi e MVVM, inglês e cursando o 2°Semestre em Tecnologia da Informação na UFMS
+- 🌱 
 - 📫 <a href="mailto:caiovictor20@gmail.com">caiovictor20@gmail.com</a> 
 - More about me: <a href="https://www.linkedin.com/in/caio-gon%C3%A7alves-288745a5/">Linkedin</a>
  
