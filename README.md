@@ -4,7 +4,7 @@
 
 * 🎯 Objetivos: Aprender com a experiência de outras pessoas e agregar valor ao trabalho e ambiente.
 
-- 📚 Estou atualmente estudando Swift, SwiftUi e MVVM, inglês e cursando o 2°Semestre em Tecnologia da Informação na UFMS
+- 📚 Estou atualmente estudando sobre ciência da computação cursando o 2°Semestre em Tecnologia da Informação na UFMS
 - 🌱 
 - 📫 <a href="mailto:caiovictor20@gmail.com">caiovictor20@gmail.com</a> 
 - More about me: <a href="https://www.linkedin.com/in/caio-gon%C3%A7alves-288745a5/">Linkedin</a>
