@@ -1,8 +1,9 @@
 - 👋 <h1> Olá pessoal</h1>
-  Sou <strong>Caio Victor Gonçalves </strong>, atualmete estou cursando a graduação em Tecnologia de informção na UFMS e também estudando Swift, tenho foco em aprender estou disposto a observar e tirar aprendizados valiosos com meus erros. Sei trabalhar bem em equipe, sou ótimo ouvinte e me comunico com todos, não sou tímido, pelo contrario, busco ter um bom relacionamento com meus colegas. Definitivamente eu não sei tudo e estou super disposto a aprender, sempre ouço, anoto e pergunto.
+  Sou <strong>Caio Victor Gonçalves </strong>, atualmete estou cursando a graduação em Tecnologia de informção na UFMS, tenho foco em aprender estou disposto a observar e tirar aprendizados valiosos. Sei trabalhar bem em equipe, sou ótimo ouvinte e me comunico com todos, não sou tímido, pelo contrario, busco ter um bom relacionamento com meus colegas. Definitivamente eu não sei tudo e estou super disposto a aprender, sempre ouço, anoto e pergunto.
  
 * 🎯 Objetivos: Aprender com a experiência de outras pessoas e agregar valor ao trabalho e ambiente.
 
+- 📝 Progredindo no CS50X com objetivo de tirar o certificado de Harvard
 - 📚 Estou atualmente estudando sobre ciência da computação cursando o 2°Semestre em Tecnologia da Informação na UFMS
 - 🌱 
 - 📫 <a href="mailto:caiovictor20@gmail.com">caiovictor20@gmail.com</a> 
